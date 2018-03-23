@@ -1,4 +1,4 @@
-XBee Beacon System Code
+XBee Beacon System Code for 2017. New code for 2018 is in RF_Beacon folder
 ==============
 
 Overview
